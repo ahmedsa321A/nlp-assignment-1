@@ -1,0 +1,8 @@
+# Ignores large datasets, __pycache__, and notebook checkpoints
+__pycache__/
+.ipynb_checkpoints/
+data/
+*.zip
+*.tar.gz
+*.csv
+datasets/
